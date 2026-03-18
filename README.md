@@ -8,3 +8,7 @@ Visit https://www.katacoda.com/ayushdogra to view the profile and interactive sc
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 For examples, visit https://github.com/katacoda/scenario-example
+
+## Integration Guides
+
+- [Salesforce ↔ CompanyCam Integration Blueprint](docs/salesforce-companycam-integration.md)
